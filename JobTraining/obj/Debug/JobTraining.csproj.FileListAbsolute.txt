@@ -1,0 +1,9 @@
+c:\users\sanela\documents\visual studio 2015\Projects\JobTraining\JobTraining\bin\Debug\JobTraining.dll
+c:\users\sanela\documents\visual studio 2015\Projects\JobTraining\JobTraining\bin\Debug\JobTraining.pdb
+c:\users\sanela\documents\visual studio 2015\Projects\JobTraining\JobTraining\bin\Debug\WebDriver.dll
+c:\users\sanela\documents\visual studio 2015\Projects\JobTraining\JobTraining\bin\Debug\WebDriver.Support.dll
+c:\users\sanela\documents\visual studio 2015\Projects\JobTraining\JobTraining\bin\Debug\WebDriver.xml
+c:\users\sanela\documents\visual studio 2015\Projects\JobTraining\JobTraining\bin\Debug\WebDriver.Support.xml
+c:\users\sanela\documents\visual studio 2015\Projects\JobTraining\JobTraining\obj\Debug\JobTraining.csprojResolveAssemblyReference.cache
+c:\users\sanela\documents\visual studio 2015\Projects\JobTraining\JobTraining\obj\Debug\JobTraining.dll
+c:\users\sanela\documents\visual studio 2015\Projects\JobTraining\JobTraining\obj\Debug\JobTraining.pdb
